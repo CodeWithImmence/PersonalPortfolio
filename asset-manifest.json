@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/CodeWithImmence/PersonalPortfolio/static/css/main.31d6cfe0.css",
+    "main.css": "/CodeWithImmence/PersonalPortfolio/static/css/main.363a26e6.css",
     "main.js": "/CodeWithImmence/PersonalPortfolio/static/js/main.e80aa472.js",
     "index.html": "/CodeWithImmence/PersonalPortfolio/index.html",
+    "main.363a26e6.css.map": "/CodeWithImmence/PersonalPortfolio/static/css/main.363a26e6.css.map",
     "main.e80aa472.js.map": "/CodeWithImmence/PersonalPortfolio/static/js/main.e80aa472.js.map"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
+    "static/css/main.363a26e6.css",
     "static/js/main.e80aa472.js"
   ]
 }
