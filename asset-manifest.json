@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/CodeWithImmence/PersonalPortfolio/static/css/main.363a26e6.css",
-    "main.js": "/CodeWithImmence/PersonalPortfolio/static/js/main.e80aa472.js",
-    "index.html": "/CodeWithImmence/PersonalPortfolio/index.html",
-    "main.363a26e6.css.map": "/CodeWithImmence/PersonalPortfolio/static/css/main.363a26e6.css.map",
-    "main.e80aa472.js.map": "/CodeWithImmence/PersonalPortfolio/static/js/main.e80aa472.js.map"
+    "main.css": "./static/css/main.363a26e6.css",
+    "main.js": "./static/js/main.e80aa472.js",
+    "index.html": "./index.html",
+    "main.363a26e6.css.map": "./static/css/main.363a26e6.css.map",
+    "main.e80aa472.js.map": "./static/js/main.e80aa472.js.map"
   },
   "entrypoints": [
     "static/css/main.363a26e6.css",
